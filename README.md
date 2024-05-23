@@ -74,7 +74,7 @@ python train_hyper.py --cuda --gpu 0 --n_epochs 10 --data_dir <data/dir/of/your/
 ```
 Alternatively, you can directly run the corresponding **dataset's .sh** file. For example
 ```shell
-bash tran_arxiv.sh
+bash train_arxiv.sh
 ```
 The training time for one epoch on the PubMed dataset on A6000 48G is 3 hours, while on the Arxiv dataset, it is 6 hours.
 ### Evaluation
