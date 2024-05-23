@@ -1,7 +1,7 @@
 # Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level
 [NAACL 2024 Findings] Source code for our paper 'Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level'
 
-paper:(https://arxiv.org/abs/2405.10202)
+paper: https://arxiv.org/abs/2405.10202
 ## Overview
 ![Image text](https://github.com/MoLICHENXI/Picture/blob/main/figure1.png)
 An illustration of modeling an input document from local and global perspectives. Triangles and circles represent words and sentences in the original document respectively.
