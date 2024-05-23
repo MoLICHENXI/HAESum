@@ -1,5 +1,5 @@
 # Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level
-[NAACL 2024 Findings] Source code for our paper 'Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level'
+[NAACL 2024 Findings] Source code for our paper "Hierarchical Attention Graph for Scientific Document Summarization in Global and Local Level"
 
 paper: https://arxiv.org/abs/2405.10202
 ## Overview
